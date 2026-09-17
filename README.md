@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, PostgreSQL, Insomnia</strong>, AWS - fundamentos em estudo
+  💼 Ferramentas: <strong>Docker, PostgreSQL, Insomnia</strong>, AWS (em estudo)
 </p>
 
 ---
