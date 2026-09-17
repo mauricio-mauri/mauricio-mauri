@@ -2,9 +2,7 @@
 <img src="assets/pc_figure.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Estudante de engenharia de software e com experiência em backend, documentação e projetos colaborativos usando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>PostgreSQL</strong>. Também desenvolvo projetos em <strong>C++, Linux</strong> e sistemas embarcados.
-  <br><br>
-  Atualmente estudo princípios de AWS, orquerstramento de LLMs, algoritmos de otimização de rotas, arquitetura e qualidade de sistemas.
+  Estudante de engenharia de software e com experiência acadêmica em backend, documentação e projetos colaborativos usando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>PostgreSQL</strong>. Também desenvolvo projetos em <strong>C++, Linux</strong> e sistemas embarcados.
 </p>
 
 ---
@@ -18,20 +16,16 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Docker, PostgreSQL</strong>
-</p>
-
-<p align="left">
-  📝 Estudos: <strong>AWS, LLMs, algoritmos de otimização</strong>
+  💼 Ferramentas: <strong>Docker, PostgreSQL, Insomnia</strong>, AWS - fundamentos em estudo
 </p>
 
 ---
 
 <p align="left">
   ☑️ Destaques: <ul>
+  <li><strong><a href="https://github.com/dev-netinho/Deefy">Deefy</a></strong> — contribuição em projeto colaborativo; padronização do tratamento global de exceções da API com Java e Spring Boot.</li>
   <li><strong>Finalista da Maratona SBC de Programação 2025;</strong></li>
   <li><strong>Monitor bolsista na UEPA</strong></li>
-  </ul>
 </p>
 
 <p align="left">
