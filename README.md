@@ -1,8 +1,8 @@
 <h2>Olá, sou Maurício.</h2>
-<img src="assets/pc_figure.jpeg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="assets/pc_figure.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Estudante de engenharia de software e com experiência em backend, documentação e projetos colaborativos usando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>PostgreSQL</strong>. Também desenvolvo projetos em <strong>C++, Linux</strong> e sistemas embarcados. 
+<p align="left">
+  Estudante de engenharia de software e com experiência em backend, documentação e projetos colaborativos usando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>PostgreSQL</strong>. Também desenvolvo projetos em <strong>C++, Linux</strong> e sistemas embarcados.
   <br><br>
   Atualmente estudo princípios de AWS, orquerstramento de LLMs, algoritmos de otimização de rotas, arquitetura e qualidade de sistemas.
 </p>
