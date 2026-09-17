@@ -1,29 +1,37 @@
-<img src="assets/pc_image.jpeg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h2>Olá, sou Maurício.</h2>
+<img src="assets/pc_figure.jpeg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou Maurício.
-  Estudante de engenharia de software e com experiência em backend, documentação e projetos colaborativos usando **Java**, **Spring Boot** e **PostgreSQL**. Também desenvolvo projetos em **C++**, **Linux** e sistemas embarcados. 
+  Estudante de engenharia de software e com experiência em backend, documentação e projetos colaborativos usando <strong>Java</strong>, <strong>Spring Boot</strong> e <strong>PostgreSQL</strong>. Também desenvolvo projetos em <strong>C++, Linux</strong> e sistemas embarcados. 
+  <br><br>
   Atualmente estudo princípios de AWS, orquerstramento de LLMs, algoritmos de otimização de rotas, arquitetura e qualidade de sistemas.
 </p>
 
+---
+
 <p align="left">
-  🦄 Linguagens: **Java, C++, JavaScript, SQL**
+  🦄 Linguagens: <strong>Java, C++, JavaScript, SQL</strong>
 </p>
 
 <p align="left">
-  📚 Frameworks e Bibliotecas: **Spring, Node.js, React**
+  📚 Frameworks e Bibliotecas: <strong>Spring, Node.js, React</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Docker, PostgreSQL**
+  💼 Ferramentas: <strong>Docker, PostgreSQL</strong>
 </p>
 
 <p align="left">
-  📝 Estudos: **AWS, LLMs, algoritmos de otimização**
+  📝 Estudos: <strong>AWS, LLMs, algoritmos de otimização</strong>
 </p>
 
+---
+
 <p align="left">
-  ☑️ Destaques: **Finalista da Maratona SBC de Programação 2025; Monitor bolsista na UEPA**
+  ☑️ Destaques: <ul>
+  <li><strong>Finalista da Maratona SBC de Programação 2025;</strong></li>
+  <li><strong>Monitor bolsista na UEPA</strong></li>
+  </ul>
 </p>
 
 <p align="left">
